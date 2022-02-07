@@ -5,7 +5,7 @@ theme = "cactus"
 
 [params]
     colortheme = "dark" 
-    description = "Im software engineer with more focus on the back-end!"
+    description = "yet another software engineer with more focus on the back-end! this blog is just a note taking application for me! all the information here could be wrong! please DYOR"
     mainSection = "posts"
     postsOnHomePage = 5
 
