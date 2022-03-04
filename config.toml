@@ -1,6 +1,6 @@
 baseurl = "https://amiiy.github.io"
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = '... Amiy ...'
 theme = "cactus"
 
 [params]
